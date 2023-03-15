@@ -87,15 +87,9 @@ for country in main_regions.keys():
 plt.legend()
 plt.show()
 
-# fig3, ax3 = plt.subplots(figsize=(8, 6))
-
-# for reg in main_region_filters:
-#     reg.plot(kind="line", ax=ax3, label=reg["Headquarters Location"])
+# Funding by region generally
 
 
-# How many are actively hiring
-
-# Funding amount
 
 # # Create a bar graph
 # grouped_data.plot(kind='bar')
